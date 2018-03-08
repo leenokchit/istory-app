@@ -53,7 +53,7 @@
     <feature name="Vibration">
         <param name="ios-package" value="CDVVibration" />
     </feature>
-    <name>helloworld</name>
+    <name>iStory</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
