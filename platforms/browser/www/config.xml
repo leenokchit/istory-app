@@ -15,6 +15,7 @@
     </author>
     <content src="index.html" />
     <allow-navigation href="https://chit-istory.herokuapp.com/istory" />
+    <icon src="www/res/icon/icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
